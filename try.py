@@ -2,7 +2,7 @@ import turtle
 t1=turtle.Screen()
 t1.bgcolor("Yellow")
 t=turtle.Pen()
-t2=turtle.Pen()
+
 t.color("red")
 for i in range(0,3):
     t.forward(100)
